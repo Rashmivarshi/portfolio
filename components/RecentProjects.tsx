@@ -3,6 +3,7 @@ import { projects } from "@/data";
 import React from "react";
 import { PinContainer } from "./ui/3d-pin";
 import { FaLocationArrow } from "react-icons/fa6";
+import Image from "next/image";
 
 const RecentProjects = () => {
   return (
