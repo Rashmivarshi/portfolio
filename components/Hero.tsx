@@ -42,7 +42,7 @@ const Hero = () => {
             className="text-center md:tracking-wider mb-4 text-sm md:text-lg
           lg:text-2xl"
           >
-            Hi! I&aposm Rashmi, a Next.js and Node.js Developer
+            Hi! I&rsquo;m Rashmi, a Next.js and Node.js Developer
           </p>
           <a href="#about">
             <MagicButton

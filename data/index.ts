@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently building a Modern AI projects",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -90,7 +90,7 @@ export const projects = [
   {
     id: 3,
     title: "Next js Blog",
-    des: "create modrn Blog with Admin Page using next js",
+    des: "create modern Blog with Admin Page using next js",
     img: "/next-14-app.svg",
     iconLists: ["/next.svg", "/re.svg", "/javascript.svg", "/mongodb.svg"],
     link: "https://next14-blog-mu.vercel.app/",
