@@ -76,7 +76,6 @@ export const projects = [
     des: "Simplify your video conferencing experience with BLOW. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    linkname: "Blow app",
     link: "https://zoom-to-blow.vercel.app/",
   },
   {
