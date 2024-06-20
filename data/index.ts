@@ -211,7 +211,7 @@ export const workExperience = [
   {
     id: 4,
     title: "Learner",
-    desc: "Keeping skills updated ensures professionals can tackle new challenges confidently and contribute meaningfully to their teams and organizations in an ever-changing digital world.",
+    desc: "Keeping skills updated ensures professionals can tackle new challenges confidently and contribute meaningfully to teams and organizations in an ever-changing digital world.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
