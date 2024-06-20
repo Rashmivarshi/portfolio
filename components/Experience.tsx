@@ -1,8 +1,6 @@
 import { workExperience } from "@/data";
 import React from "react";
 import { Button } from "./ui/MovingBorder";
-import { Cardo } from "next/font/google";
-import Image from "next/image";
 
 const Experience = () => {
   return (

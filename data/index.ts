@@ -84,14 +84,8 @@ export const projects = [
     title: "Sunsum - AI Article Extract Anywhere",
     des: "Extract the website link summary in seconds",
     img: "/Article-summary.png",
-    className: "w-[464px] height-[319.73px] skew-y-2 rotate-10 mb-10",
-    iconLists: [
-      "/re.svg",
-      "/redux.svg",
-      "/tail.svg",
-      "/javascript.svg",
-      "ai.svg",
-    ],
+    className: "w-[464px] height-[300px] skew-y-2 rotate-10 mb-5",
+    iconLists: ["/re.svg", "/redux.svg", "/tail.svg", "/javascript.svg"],
     link: "https://article-extract-anywhere.netlify.app/",
   },
   {
