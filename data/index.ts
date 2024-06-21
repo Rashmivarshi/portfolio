@@ -133,22 +133,26 @@ export const testimonials = [
   {
     quote:
       "They pay attention to every detail and were very accommodating with our web site. They went above and beyond to make sure that the site was exactly what I had envisioned.",
+    imgurl: "/j.svg",
     name: "Jonathan Cuesta",
   },
   {
     quote:
-      "They pay attention to every detail and were very accommodating with our web site. They went above and beyond to make sure that the site was exactly what I had envisioned.",
-    name: "Jonathan Cuesta",
+      "Throughout the entire process she is responsive, and willing to work through issues as they arise. It’s obvious she takes tremendous pride in her work, and I wouldn’t hesitate to recommend or work with her again.",
+    imgurl: "/s-name.svg",
+    name: "Shanna Gillespie",
   },
   {
     quote:
       "They pay attention to every detail and were very accommodating with our web site. They went above and beyond to make sure that the site was exactly what I had envisioned.",
+    imgurl: "/j.svg",
     name: "Jonathan Cuesta",
   },
   {
     quote:
-      "They pay attention to every detail and were very accommodating with our web site. They went above and beyond to make sure that the site was exactly what I had envisioned.",
-    name: "Jonathan Cuesta",
+      "Throughout the entire process she is responsive, and willing to work through issues as they arise. It’s obvious she takes tremendous pride in her work, and I wouldn’t hesitate to recommend or work with her again.",
+    imgurl: "/s-name.svg",
+    name: "Shanna Gillespie",
   },
 ];
 
@@ -225,6 +229,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    link: "",
+    link: "https://www.linkedin.com/in/rashmi-b-292214315",
   },
 ];
